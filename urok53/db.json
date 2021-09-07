@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img61.jpg",
+      "title": "Заголовок первого товара",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool",
+      "img": "/urok54/img/img50.jpg",
+      "title": "Animal Print Sweatshirt 2",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img51.jpg",
+      "title": "Animal Print Sweatshirt 3",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img63.jpg",
+      "title": "Animal Print Sweatshirt 4",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool",
+      "img": "/urok54/img/img61.jpg",
+      "title": "Animal Print Sweatshirt 5",
+      "origin_price": 1230,
+      "old_price": 2500
+    }
+  ],
+  "requests": [
+    
+  ]
+}
