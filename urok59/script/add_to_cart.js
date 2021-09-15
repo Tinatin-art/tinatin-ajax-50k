@@ -31,9 +31,7 @@ function myFunction(ttl, prc, img) {
     let create_li = document.createElement('li');
     create_li.classList.add("bag_item");
 
-    console.log();
-    console.log();
-    console.log();
+
 
     create_li.innerHTML = '<div class="bag_img">\
 									        <a href="#"><img src="' + image[0].src + '" alt=""></a>\
@@ -84,14 +82,14 @@ function myFunction(ttl, prc, img) {
 
 
 document.querySelector(".list_product").addEventListener("click", event => {
-
+    event.preventDefault();
     if (event.target.parentNode.classList.contains("prod")) return false;
 
     let title = event.target.parentNode.parentNode.parentNode.parentNode.querySelectorAll(".price p a");
     let price = event.target.parentNode.parentNode.parentNode.parentNode.querySelectorAll(".money .currency .price_p");
-    let image = event.target.parentNode.parentNode.parentNode.parentNode.parentNode.querySelectorAll(".prod div img");
+    let image = event.target.parentNode.parentNode.parentNode.parentNode.parentNode.querySelectorAll(".prod .add_image");
 
-
+    console.log(event.target.parentNode);
     myFunction(title, price, image);
 });
 
