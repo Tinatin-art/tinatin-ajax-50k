@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img61.jpg",
+      "title": "Заголовок первого товара",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool",
+      "img": "/urok54/img/img50.jpg",
+      "title": "Animal Print Sweatshirt 2",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img51.jpg",
+      "title": "Animal Print Sweatshirt 3",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool2",
+      "img": "/urok54/img/img63.jpg",
+      "title": "Animal Print Sweatshirt 4",
+      "origin_price": 1230,
+      "old_price": 2500
+    },
+    {
+      "ttl": "New",
+      "color": "tool",
+      "img": "/urok54/img/img61.jpg",
+      "title": "Animal Print Sweatshirt 5",
+      "origin_price": 1230,
+      "old_price": 2500
+    }
+  ],
+  "requests": [
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://ajax50k-tina-tin/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 1
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "file:///C:/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 2
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://ajax50k-tina-tin/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 3
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://ajax50k-tina-tin/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 4
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 5
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 6
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 7
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 8
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img63.jpg",
+      "price": "14.47",
+      "id": 9
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img63.jpg",
+      "price": "14.47",
+      "id": 10
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 11
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 12
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 13
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 14
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img63.jpg",
+      "price": "14.47",
+      "id": 15
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 5",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 16
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 17
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 18
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 19
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img51.jpg",
+      "price": "14.47",
+      "id": 20
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img63.jpg",
+      "price": "14.47",
+      "id": 21
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 22
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 23
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 24
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 25
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 26
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 27
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 28
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 29
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 30
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 31
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 5",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 32
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img51.jpg",
+      "price": "14.47",
+      "id": 33
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 34
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 35
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 4",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 36
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 37
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 38
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 39
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 40
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 2",
+      "image": "http://tinatin-ajax-50k/urok54/img/img50.jpg",
+      "price": "14.47",
+      "id": 41
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img51.jpg",
+      "price": "14.47",
+      "id": 42
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 43
+    },
+    {
+      "ttl": "Animal Print Sweatshirt 3",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 44
+    },
+    {
+      "ttl": "Заголовок Первого Товара",
+      "image": "http://tinatin-ajax-50k/urok54/img/img61.jpg",
+      "price": "14.47",
+      "id": 45
+    }
+  ]
+}
