@@ -1,0 +1,32 @@
+{
+  "name": "urok53",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    ">1%"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
+    "babel-loader": "^8.2.2",
+    "core-js": "^3.17.3",
+    "eslint": "^7.32.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-react": "^7.25.3",
+    "json-server": "^0.16.3",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
