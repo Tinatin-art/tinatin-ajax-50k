@@ -1,0 +1,36 @@
+
+.app-list-item{
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 5px 0;
+    align-items: center;
+    background-color: white;
+}
+
+.app-list-item-label{
+    cursor: pointer;
+}
+
+button.btn-star{
+    background-color: white;
+    color: gray;
+    border: none;
+}
+button.btn-trash{
+    background-color: white;
+    border: none;
+    color: #f50c31;
+    margin-right: 5px;
+}
+
+.app-list-item.important .app-list-item-label{
+    color: red;
+}
+
+.app-list-item.important button.btn-star{
+    color: gold;
+}
+
+.like{
+    color: red;
+}

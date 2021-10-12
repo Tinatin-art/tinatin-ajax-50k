@@ -1,0 +1,10 @@
+body{
+    background-color: floralwhite;
+}
+.wrapper {
+    width: 800px;
+    margin: 100px auto;
+    padding: 10px;
+    border: 1px solid grey;
+    background-color: antiquewhite;
+}
