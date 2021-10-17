@@ -1,14 +1,14 @@
-.app-header h1{
+h1{
     font-size: 27px;
     color: #f50c31;
 }
 
-.app-header h2{
+h2{
     font-size: 14px;
     color: #838f8f;
 }
 
-.app-header{
+/* .app-header{
     justify-content: space-between;
     align-items: center;
-}
+} */
