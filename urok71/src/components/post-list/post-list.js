@@ -1,18 +1,23 @@
 import React from 'react';
 import PostListItem from '../post-list-item';
 import "./post-list.scss"
-import style from "./app.module.css"
 
 
-const PostList = ({posts}) => {
+
+const PostList = ({posts, onDelete , onToggleImportant, onToggleLike}) => {
 
     const elem = posts.map((item)=>{
 
         const {id, ...itemProps} = item
 
         return(
-            <li key={id} className={style.bg}>
-                <PostListItem {...itemProps}/>
+            <li key={id}>
+                <PostListItem 
+                {...itemProps}
+                onDelete={() => onDelete(id)}
+                onToggleImportant={() => onToggleImportant(id)}
+                onToggleLike={() => onToggleLike(id)}
+                />
                 {/* <PostListItem label={item.label} className={item.important}/> */}
             </li>
         )
